@@ -1,4 +1,4 @@
-The following variables were created from the files downloaded and stored in a folder in the working directory. The files were read as dataframes named as follows:
+*The following variables were created from the files downloaded and stored in a folder in the working directory. The files were read as dataframes named as follows:
 
 + featuresDF: dataframe created from the downloaded file "features.txt"
 + activity_labelsDF: dataframe created from the downloaded file "activity_labels.txt"
