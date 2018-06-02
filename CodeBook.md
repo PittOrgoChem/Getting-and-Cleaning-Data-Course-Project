@@ -16,7 +16,7 @@ __*The following variables were created from the files downloaded and stored in 
 
 + y_trainDF: dataframe created from the downloaded file "y_train.txt". Dimensions: 7352 rows, 1 column
 
-*Several of the following dataframes resulted from manipulations and combinations of dataframes described above*
+__*Several of the following dataframes resulted from manipulations and combinations of dataframes described above*__
 
 + testDF: dataframe created by combining by column *subject_testDF, y_testDF, X_testDF*. Dimensions: 2947 rows, 565 columns
 
