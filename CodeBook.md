@@ -2,12 +2,12 @@
 
 + featuresDF: dataframe created from the downloaded file "features.txt"
 + activity_labelsDF: dataframe created from the downloaded file "activity_labels.txt"
-subject_testDF: dataframe created from the downloaded file "subject_test.txt"
-X_testDF: dataframe created from the downloaded file "X_test.txt"
-y_testDF: dataframe created from the downloaded file "y_test.txt"
-subject_trainDF: dataframe created from the downloaded file "subject_train.txt"
-X_trainDF: dataframe created from the downloaded file "X_train.txt"
-y_trainDF: dataframe created from the downloaded file "y_train.txt"
++ subject_testDF: dataframe created from the downloaded file "subject_test.txt"
++ X_testDF: dataframe created from the downloaded file "X_test.txt"
++ y_testDF: dataframe created from the downloaded file "y_test.txt"
++ subject_trainDF: dataframe created from the downloaded file "subject_train.txt"
++ X_trainDF: dataframe created from the downloaded file "X_train.txt"
++ y_trainDF: dataframe created from the downloaded file "y_train.txt"
 
 #Data frames containing information about the experimental subjects and activities are combined
 #with the recently modified X_testDF and X_trainDF to create two new data frames testDF and trainDF
