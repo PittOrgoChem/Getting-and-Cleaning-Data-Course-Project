@@ -1,4 +1,4 @@
-*The following variables were created from the files downloaded and stored in a folder in the working directory. The files were read as dataframes named as follows:*
+*_The following variables were created from the files downloaded and stored in a folder in the working directory. The files were read as dataframes named as follows:_*
 
 + featuresDF: dataframe created from the downloaded file "features.txt". Dimensions: 561 rows, 2 columns
 
