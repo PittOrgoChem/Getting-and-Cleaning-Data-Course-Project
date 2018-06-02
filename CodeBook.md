@@ -1,7 +1,7 @@
 # The following variables were created from the files downloaded and stored in a folder in the working directory. The files were read as dataframes named as follows:
 
-## 'featuresDF: dataframe created from the downloaded file "features.txt"
-## 'activity_labelsDF: dataframe created from the downloaded file "activity_labels.txt"
+. featuresDF: dataframe created from the downloaded file "features.txt"
+. activity_labelsDF: dataframe created from the downloaded file "activity_labels.txt"
 subject_testDF: dataframe created from the downloaded file "subject_test.txt"
 X_testDF: dataframe created from the downloaded file "X_test.txt"
 y_testDF: dataframe created from the downloaded file "y_test.txt"
