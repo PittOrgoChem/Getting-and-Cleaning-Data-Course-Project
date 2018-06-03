@@ -26,4 +26,6 @@ __*Several of the following dataframes resulted from manipulations and combinati
 
 + mean_std_DF: dataframe resulting from subsetting *combined_DF* by only selecting the data from variables(columns) in which the mean and standard deviation were reported. Dimensions: 10,299 rows, 70 columns
 
++ tempDF: dataframe resulting from grouping the data from *mean_std_DF* by __subject__ and by __acivity_label__ variables, preparing for the last part of the analysis that will result in *finalDF*. Dimensions: 10,299 rows, 70 columns 
+
 + finalDF: dataframe showing the average for each measurement variable per subject and activity in the experiment. Dimensions: 180 rows, 70 columns
